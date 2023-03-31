@@ -1,0 +1,13 @@
+Data Analytics
+
+---------------------------------------
+
+Number of Months: 86
+
+Total: 22564198
+
+The average change is: -8311.11
+
+Greatest Increase in Profits: 1141840 on Mar-13
+
+Greatest Decrease in Profits: -1194133 on Dec-10
